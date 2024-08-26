@@ -26,7 +26,7 @@ const perguntas = [
                 afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
-                texto: "Não! A cota racial demonstra inferioridade a certas etnias em inclusões sociais e profissionais desenvolvendo, ainda, desigualdades.",
+                texto: "Não! A cota racial demonstra inferioridade a certas etnias em inclusões sociais e profissionais desenvolvendo, ainda, desigualdades."
                 afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
         ]
@@ -35,11 +35,11 @@ const perguntas = [
         enunciado: "As cotas para as universidades ajudarão a diminuir o racismo?"
         alternativas: [
             {
-                texto: "Sim, pois com essas oportunidades poderão incluir outras pessoas a grandes sistemas educacionais a fim de não serem discriminados.",
+                texto: "Sim, pois com essas oportunidades poderão incluir outras pessoas a grandes sistemas educacionais a fim de não serem discriminados."
                 afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
             },
             {
-                texto: "Não, mesmo tendo oportunidades para entrar a grandes instituições de ensino, não diminuiria a discriminação social e de certo modo, só a aumentaria.",
+                texto: "Não, mesmo tendo oportunidades para entrar a grandes instituições de ensino, não diminuiria a discriminação social e de certo modo, só a aumentaria."
                 afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
             }
         ]
@@ -52,20 +52,20 @@ const perguntas = [
                 afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
             },
             {
-                texto: "Não, porque acredito não ser justo.",
+                texto: "Não, porque acredito não ser justo."
                 afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? "
         alternativas: [
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
                 afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
+                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial."
                 afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
             }
         ]
